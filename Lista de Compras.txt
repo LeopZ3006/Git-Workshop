@@ -2,6 +2,6 @@ COMIDA: Arroz, feijão e batata
 
 BEBIDAS: Coca-Cola, guaraná, suco de laranja e água
 
-HIGIENE:
+HIGIENE: sabonete, shampoo e condicionador
 
-EXTRAS:
+EXTRAS: pilhas
