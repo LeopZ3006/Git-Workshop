@@ -1,6 +1,6 @@
 COMIDA: Arroz, feijão e batata
 
-BEBIDAS:
+BEBIDAS: Coca-Cola, guaraná, suco de laranja e água
 
 HIGIENE:
 
